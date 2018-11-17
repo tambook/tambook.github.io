@@ -1,0 +1,16 @@
+url: ""
+baseurl: ""
+
+# Site settings
+title: TamBook
+email: tb130204@naver.com
+description: ""
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
